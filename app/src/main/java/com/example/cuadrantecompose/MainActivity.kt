@@ -41,6 +41,18 @@ private fun ArribaIzquierda(negrita : String, descripcion : String, modifier : M
 
 }
 
+private fun ArribaDerecha(negrita : String, descripcion : String, modifier : Modifier = Modifier) {
+
+}
+
+private fun AbajoIzquierda(negrita : String, descripcion : String, modifier : Modifier = Modifier) {
+
+}
+
+private fun ArribaDerecha(negrita : String, descripcion : String, modifier : Modifier = Modifier) {
+
+}
+
 
 @Preview(showBackground = true)
 @Composable
